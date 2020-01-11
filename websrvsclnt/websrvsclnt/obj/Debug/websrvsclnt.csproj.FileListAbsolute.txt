@@ -1,0 +1,20 @@
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.exe.config
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.exe
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.pdb
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\Newtonsoft.Json.dll
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\Newtonsoft.Json.xml
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.csprojResolveAssemblyReference.cache
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.exe
+c:\users\sye\documents\visual studio 2013\Projects\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.pdb
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.exe.config
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.exe
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.pdb
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.exe
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\websrvsclnt.pdb
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\Newtonsoft.Json.dll
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\System.Net.Http.Formatting.dll
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\Newtonsoft.Json.xml
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\bin\Debug\System.Net.Http.Formatting.xml
+D:\D3TI\2A\web service\websrvsclnt\websrvsclnt\obj\Debug\websrvsclnt.csprojResolveAssemblyReference.cache

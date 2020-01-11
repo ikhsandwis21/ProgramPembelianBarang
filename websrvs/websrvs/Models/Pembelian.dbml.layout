@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Pembelian">
+  <DataContextMoniker Name="/PembelianDataContext" />
+  <nestedChildShapes>
+    <classShape Id="60ffef19-a7ca-4fd9-b9a6-5c48e2967ce4" absoluteBounds="1.875, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/PembelianDataContext/trs_pembelian" />
+      <nestedChildShapes>
+        <elementListCompartment Id="268d844c-2f4d-4452-98a5-71328627409e" absoluteBounds="1.8899999999999997, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="dbpoltekpos" Class="PembelianDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-ADD7KGH\SQLEXPRESS;Initial Catalog=dbpoltekpos;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="dbpoltekposConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.trs_pembelian" Member="trs_pembelians">
+    <Type Name="trs_pembelian">
+      <Column Name="nofaktur" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="vendor" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="kode_barang" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nama_barang" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="jml" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="hargasatuan" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="subtotal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
